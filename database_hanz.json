@@ -1,10 +1,14 @@
-{
-  "users": [
-    {
-      "token": "hanznihbos12"
-    },
-    {
-      "token": "def456"
-    }
-  ]
-}
+[
+  {
+    "phone": "6281243047793",
+    "token": "hanzkontol"
+  },
+  {
+    "phone": "6289876543210",
+    "token": "securetoken456"
+  },
+  {
+    "phone": "6285556667777",
+    "token": "aksesvalid789"
+  }
+]
