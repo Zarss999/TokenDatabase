@@ -1,12 +1,16 @@
 {
-  "authorized_users": [
+  "users": [
     {
       "username": "hanzpiwz",
-      "number": "6282246332403"
+      "nomor": "6282246332403"
     },
     {
-      "username": "john",
-      "number": "6289876543210"
+      "username": "admin",
+      "nomor": "08123456789"
+    },
+    {
+      "username": "darkuser",
+      "nomor": "085777777777"
     }
   ]
 }
