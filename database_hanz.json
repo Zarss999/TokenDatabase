@@ -1,6 +1,12 @@
-[
-  {
-    "phone": "6281243047793",
-    "token": "hanzkontol"
-  }
-]
+{
+  "authorized_users": [
+    {
+      "username": "hanzpiwz",
+      "number": "6282246332403"
+    },
+    {
+      "username": "john",
+      "number": "6289876543210"
+    }
+  ]
+}
